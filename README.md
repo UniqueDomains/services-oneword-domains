@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SERVICES one-word domains still available to buy.
 
-This dataset contains 3,765 .SERVICES one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,771 .SERVICES one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SERVICES one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=services-oneword-domains&utm_content=description.top) (3,764) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.SERVICES one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.services        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.services      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.services        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.services      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.services  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.services      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.services  | available | 58       | 7%     | 9      |           |         |         |
