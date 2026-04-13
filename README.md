@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C633%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C634%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C629%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .services one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,633 rows · **Live catalog:** 7,629 domains
+**Public extract:** 7,634 rows · **Live catalog:** 7,629 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/services`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SERVICES one-word dom
 
 ### Files
 
-- `services.csv` — public CSV extract (7,633 rows)
-- `services.json` — public JSON extract (7,633 rows)
+- `services.csv` — public CSV extract (7,634 rows)
+- `services.json` — public JSON extract (7,634 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -72,7 +72,7 @@ print(df.head())
 | food.services     | premium   | $260      | $260          | 94             | 44     | 4      | namecheap                                                 |
 | lemon.services    | available | $15.99    | —             | 64             | 39     | 5      | name.com                                                  |
 | apparel.services  | resell    | $51.98    | —             | 98             | 19     | 7      | GoDaddy.com, LLC                                          |
-| pop.services      | premium   | $250      | $250          | 82             | 43     | 3      | name.com                                                  |
+| pop.services      | premium   | $250      | $250          | 82             | 44     | 3      | name.com                                                  |
 | sugar.services    | available | $15.99    | —             | 70             | 36     | 5      | name.com                                                  |
 | abroad.services   | resell    | $11.99    | $47.99        | 92             | 13     | 6      | GoDaddy.com, LLC                                          |
 | aaa.services      | premium   | $520      | $520          | 70             | 42     | 3      | namecheap                                                 |
@@ -81,7 +81,7 @@ print(df.head())
 | first.services    | premium   | $250      | $250          | 80             | 41     | 5      | name.com                                                  |
 | macro.services    | available | $15.99    | —             | 70             | 33     | 5      | name.com                                                  |
 | checkout.services | resell    | —         | —             | 72             | 79     | 9      | GoDaddy.com, LLC                                          |
-| daily.services    | premium   | $82.50    | $82.50        | 74             | 40     | 5      | name.com                                                  |
+| direct.services   | premium   | $1,000    | $1,000        | 104            | 40     | 6      | name.com                                                  |
 | pride.services    | available | $15.99    | —             | 74             | 32     | 5      | name.com                                                  |
 | boss.services     | resell    | —         | —             | 76             | 73     | 4      | Sav.com, LLC - 45                                         |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,633-row public sample | 7,629 live domains                               |
+| 7,634-row public sample | 7,629 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
