@@ -294,7 +294,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f3deb74-ae72-4e5a-8920-b2b12faa3c41,majorityproblem.services,available,15.99,,50,0,16,name.com,,
 1f447856-816f-498d-8ea9-859058e0011e,backs.services,available,15.99,,56,5,5,name.com,,
 1f663b72-817a-4b93-9690-d07fd5c20331,havekittens.services,available,15.99,,66,1,12,name.com,,
-1f714710-29ea-486f-9bb9-d62977bcada3,tree.services,resell,,,74,39,4,Porkbun LLC,21/06/2015 16:26,21/06/2026 16:26
+1f714710-29ea-486f-9bb9-d62977bcada3,tree.services,resell,,,74,38,4,Porkbun LLC,21/06/2015 16:26,21/06/2026 16:26
 1f81a7c1-6204-4e75-8c7d-53ebeed2a450,majorityleader.services,available,15.99,,54,1,15,name.com,,
 1f9b2bef-e862-432c-910c-86f4faac1022,tillers.services,available,15.99,,51,3,7,name.com,,
 1fa76828-8ef5-4914-a9e0-4e508dd14c86,backtofront.services,available,15.99,,46,3,13,name.com,,
