@@ -68,7 +68,7 @@ print(df.head())
 | checkout.services  | resell    | —         | —             | 72             | 78     | 9      | GoDaddy.com, LLC |
 | events.services    | premium   | $560      | $1,120        | 68             | 37     | 6      | namecheap        |
 | spectra.services   | available | $15.99    | —             | 62             | 34     | 7      | name.com         |
-| Your.services      | resell    | —         | —             | 68             | 45     | 4      | Sav.com, LLC     |
+| Your.services      | resell    | —         | —             | 68             | 59     | 4      | Sav.com, LLC     |
 | etc.services       | premium   | $46.20    | $92.40        | 58             | 34     | 3      | namecheap        |
 | trends.services    | available | $15.99    | —             | 60             | 32     | 6      | name.com         |
 | Phil.services      | resell    | —         | —             | 78             | 41     | 4      | Spaceship, Inc.  |
