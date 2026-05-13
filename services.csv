@@ -255,7 +255,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b8cc8cf-913f-4841-8726-632ce609677f,goaround.services,available,15.99,,74,4,9,name.com,,
 1b94ca86-a48e-41d4-aa74-a3feb670ff6d,scratches.services,available,15.99,,60,4,9,name.com,,
 1bb18687-1cf6-4ad3-ba06-470199a28c0b,bloodpressuregage.services,available,15.99,,48,1,19,name.com,,
-1bdd72f5-07cc-4673-9725-0f0b00ed4169,Phil.services,resell,,,78,41,4,"Spaceship, Inc.",05/04/2026 20:15,05/04/2027 20:15
+1bdd72f5-07cc-4673-9725-0f0b00ed4169,Phil.services,resell,,,78,40,4,"Spaceship, Inc.",05/04/2026 20:15,05/04/2027 20:15
 1be2e6e7-4325-48fa-8849-c210b4c60518,makeupfriend.services,available,15.99,,60,1,14,name.com,,
 1be3aee6-b9dc-4a2e-9809-97ecfe4f3191,manyeyed.services,available,15.99,,68,1,9,name.com,,
 1bffffc0-3ec6-47a8-a3c7-dfa28a23cea8,rekt.services,available,15.99,,40,24,4,name.com,,
