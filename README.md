@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .services one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,405 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,405 domains · **Median ask:** $26.43 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,405 domains · **Median ask:** $26.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/services`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/services`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SERVICES one-word dom
 
 ### Files
 
-- `services.csv` — public CSV extract (1,000 rows)
-- `services.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `services.csv`, public CSV extract (1,000 rows)
+- `services.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| stories.services   | available | $15.99    | —             | 58             | 36     | 7      | name.com         |
-| checkout.services  | resell    | —         | —             | 72             | 78     | 9      | GoDaddy.com, LLC |
-| events.services    | premium   | $560      | $1,120        | 68             | 37     | 6      | namecheap        |
-| spectra.services   | available | $15.99    | —             | 62             | 34     | 7      | name.com         |
-| Your.services      | resell    | —         | —             | 68             | 59     | 4      | Sav.com, LLC     |
-| etc.services       | premium   | $46.20    | $92.40        | 58             | 34     | 3      | namecheap        |
-| trends.services    | available | $15.99    | —             | 60             | 32     | 6      | name.com         |
-| coins.services     | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc      |
-| partners.services  | premium   | $140      | $280          | 61             | 31     | 8      | namecheap        |
-| whats.services     | available | $15.99    | —             | 58             | 24     | 5      | name.com         |
-| Phil.services      | resell    | —         | —             | 78             | 40     | 4      | Spaceship, Inc.  |
-| loans.services     | premium   | $280      | $560          | 58             | 24     | 5      | namecheap        |
-| rekt.services      | available | $15.99    | —             | 40             | 24     | 4      | name.com         |
-| premium.services   | resell    | —         | —             | 85             | 39     | 7      | Porkbun LLC      |
-| boats.services     | premium   | $140      | $280          | 52             | 24     | 5      | namecheap        |
-| blogs.services     | available | $15.99    | —             | 52             | 21     | 5      | name.com         |
-| label.services     | resell    | —         | —             | 70             | 39     | 5      | GoDaddy.com, LLC |
-| flights.services   | premium   | $140      | $280          | 61             | 22     | 7      | namecheap        |
-| resources.services | available | $15.99    | —             | 58             | 20     | 9      | name.com         |
-| tree.services      | resell    | —         | —             | 74             | 38     | 4      | Porkbun LLC      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fog.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| car.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| are.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| lie.services  | available | $15.99    | —             | medium         | low    | 3      | name.com         |
+| don.services  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| bid.services  | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
+| pig.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| lcd.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| boo.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| tie.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| may.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| cup.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| UML.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| sky.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| feb.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| xii.services  | available | $15.99    | $52.99        | medium         | low    | 3      | name.com         |
+| suv.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| lol.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| ball.services | available | $15.99    | —             | medium         | low    | 4      | name.com         |
+| arts.services | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .services domains. The set ranges from direct dictionary terms such as cat.services, cake.services, and hybrid.services to more specific or conceptual names like antiracist.services, subsidiary.services, and cherryontop.services. When comparing these domains, focus on whether the word reads naturally before .services, whether it signals a clear service category, and whether the phrase is easy to say and remember. The median ask is 26.45, which keeps price comparison straightforward across a large set. For stronger picks, prefer names that are clear, commercially usable, and unlikely to create trademark friction.
+This list of 10,405 .services domain names covers a wide range of styles — from action words like "steerclear" and "getup" to descriptive terms like "coffeesyrup" and "creative." A few names, such as "WonderWoman" and "RomanEmpire," reference well-known characters or events, which may carry trademark risk. Pricing across the set is generally low, with a median ask of $27, making it easy to compare options side by side.
 
-- All domains in this selection use the .services extension
-- Median ask across the set is 26.45
-- Best fits read clearly before .services
-- Check memorability, specificity, and trademark risk
+- 10,405 .services domain names available for review
+- Median asking price: $27 — low entry cost across the set
+- Mix of everyday words, phrases, and pop-culture terms
+- Some names reference trademarks — check before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
