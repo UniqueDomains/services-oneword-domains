@@ -1,10 +1,10 @@
-# Available .SERVICES One-Word Domains (13,832)
+# Available .SERVICES One-Word Domains (13,924)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C832%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C924%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .services one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,832 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,924 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,832 domains · **Median ask:** $18.62 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 13,924 domains · **Median ask:** $18.55 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/tld/services`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.services       | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
-| christmas.services | premium   | $280      | $560          | high           | low    | 9      | namecheap        |
-| come.services      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| clean.services     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| off.services       | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| ground.services    | resell    | —         | —             | high           | low    | 6      | eNom, LLC        |
-| tender.services    | premium   | $82.50    | $82.50        | high           | low    | 6      | name.com         |
-| fog.services       | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| car.services       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| are.services       | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
-| ixl.services       | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
-| don.services       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| bid.services       | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
-| lie.services       | available | $15.99    | —             | medium         | low    | 3      | name.com         |
-| lcd.services       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| boo.services       | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| lii.services       | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
-| may.services       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| cup.services       | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| pig.services       | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fog.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| car.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| are.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| ixl.services  | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
+| don.services  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| bid.services  | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
+| lie.services  | available | $15.99    | —             | medium         | low    | 3      | name.com         |
+| lcd.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| boo.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| lii.services  | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
+| may.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| cup.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| pig.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| sky.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| feb.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| tie.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| suv.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| lol.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| UML.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| arts.services | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,832 live domains                        |
+| 1,000-row public sample | 13,924 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
