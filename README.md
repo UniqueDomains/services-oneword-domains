@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .services one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,808 domains · **Median ask:** $15.52 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/services`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | suv.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | lol.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
 | UML.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| arts.services | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
+| arts.services | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
