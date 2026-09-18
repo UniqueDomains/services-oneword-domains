@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .services one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,246 domains · **Median ask:** $14.02 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/services`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| out.services       | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
-| christmas.services | premium   | $280      | $560          | high           | low    | 9      | namecheap        |
-| come.services      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| clean.services     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
-| off.services       | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| ground.services    | resell    | —         | —             | high           | low    | 6      | eNom, LLC        |
-| fog.services       | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| car.services       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| are.services       | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
-| ixl.services       | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
-| don.services       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| bid.services       | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
-| lie.services       | available | $15.99    | —             | medium         | low    | 3      | name.com         |
-| lcd.services       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| boo.services       | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
-| lii.services       | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
-| may.services       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| cup.services       | premium   | $130      | $260          | medium         | low    | 3      | namecheap        |
-| pig.services       | available | $15.99    | —             | high           | low    | 3      | name.com         |
-| sky.services       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fog.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| car.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| are.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| ixl.services  | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
+| don.services  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| bid.services  | premium   | $280      | $560          | high           | low    | 3      | namecheap        |
+| lie.services  | available | $15.99    | —             | medium         | low    | 3      | name.com         |
+| lcd.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| boo.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| lii.services  | available | $5.48     | $51.98        | low            | low    | 3      | namecheap        |
+| may.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| cup.services  | premium   | $130      | $260          | medium         | low    | 3      | namecheap        |
+| pig.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| sky.services  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| feb.services  | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap        |
+| tie.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| suv.services  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| lol.services  | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
+| UML.services  | available | $15.99    | —             | high           | low    | 3      | name.com         |
+| arts.services | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SERVICES One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
