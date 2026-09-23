@@ -8,7 +8,6 @@ e8e7ad22-7748-4bd1-8498-9014cc3556b5,suv.services,resell,,,high,low,3,"GoDaddy.c
 64f4538b-fae1-4307-bf37-be49c2ea1cb5,westcott.services,available,15.99,,low,low,8,name.com,,,
 bf6ef007-415a-4097-8bd5-df400ab7394c,cxxxv.services,available,5.48,51.98,low,low,5,namecheap,,,
 be9976d1-c9e8-4e6b-a319-bebf9b644c68,introduced.services,available,15.99,,medium,low,10,name.com,,,
-2cb41011-8ce9-40b9-9c0c-004d4c4382e9,xiii.services,available,15.99,52.99,medium,low,4,name.com,,,
 74bdad6a-7f10-410b-8bef-eaa17425eede,alberteinstein.services,available,15.99,,high,low,15,name.com,,,
 19098a81-4cce-4a0b-bf66-97bcc11b13c0,consumption.services,available,15.99,,medium,low,11,name.com,,,
 f956fb83-0b82-42e8-a6b8-08a31e4e519e,alamo.services,available,,,medium,low,5,,,,
@@ -45,7 +44,7 @@ b2a0ff83-7a06-4eaf-af9f-edd7684c685f,discspace.services,available,15.99,,high,lo
 0736a26d-4ceb-4422-a702-dcc4eb74010e,manila.services,premium,140,280,high,low,6,namecheap,,,
 d2b3932d-10dd-44d8-a72b-0634281e3aec,bottom.services,resell,,,low,low,6,"GoDaddy.com, LLC",20/12/2025 21:49,20/12/2026 21:49,09/08/2026 11:50
 59f50354-1e12-4bb9-aeaf-2c725a630795,arable.services,available,5.48,51.98,low,low,6,namecheap,,,06/08/2026 11:14
-1cb958e5-bb6e-4686-bf90-2a49579d11ec,nervous.services,available,15.99,52.99,medium,low,7,name.com,,,
+1cb958e5-bb6e-4686-bf90-2a49579d11ec,nervous.services,available,14.99,38.99,low,low,7,namesilo,,,21/09/2026 22:02
 f71883cd-59e2-4735-afc5-a66cd7db4f0f,adjuratory.services,available,5.48,51.98,low,low,10,namecheap,,,
 e23999ea-2b52-4702-8a8f-2d4fc6f2ba12,uremic.services,available,5.48,51.98,low,low,6,namecheap,,,08/08/2026 02:43
 0c752cb6-55ca-43e9-8448-3bbe4a1f3ee5,militant.services,available,5.48,51.98,low,low,8,namecheap,,,
@@ -58,7 +57,6 @@ b1b50aa6-9f7b-4e75-b3c0-5f36d48bf38d,basaltic.services,available,,,medium,low,8,
 71a9fe0d-0964-45b8-828d-647d4fe4616b,verymuch.services,available,15.99,,high,low,9,name.com,,,
 40d0c83f-8bd0-48ad-bcc4-e525dbdfe8e6,admonitory.services,available,5.48,51.98,low,low,10,namecheap,,,
 34e5c47f-8c2f-4ac6-8745-8adc1be8ca50,plentiful.services,available,15.99,,high,low,9,name.com,,,
-0e01c94e-be80-47d8-baed-138b31260cd3,sick.services,available,15.99,,medium,low,4,name.com,,,
 aeb51c12-f33c-403d-9995-503aebce2980,comical.services,available,15.99,,high,low,7,name.com,,,
 eeeb5f25-7622-4d33-aa5d-04500af1fcb8,humourous.services,available,15.99,,high,low,9,name.com,,,
 b4157d6e-28f3-475c-9e1f-e79e8e17fad8,cooking.services,premium,130,260,medium,low,7,namecheap,,,08/09/2026 08:19
@@ -89,9 +87,9 @@ b39914d7-7c9a-4b0e-8a94-ac49efd949bd,anguished.services,available,5.48,51.98,low
 7b660b02-192c-444c-a0fb-28a26bab4e7e,liked.services,available,15.99,,high,low,5,name.com,,,
 4a4d9fd5-50cb-48e7-bc10-6c01bc211d29,sailorboy.services,available,15.99,,low,low,10,name.com,,,
 166d2fd3-667b-4000-9985-9a284b7fc5a3,surfcity.services,available,15.99,,medium,low,9,name.com,,,
-9f0dfea2-74a4-453e-ae37-8d88f7566cfa,crazy.services,resell,,,high,low,5,"GoDaddy.com, LLC",16/12/2025 21:50,16/12/2026 21:50,
+9f0dfea2-74a4-453e-ae37-8d88f7566cfa,crazy.services,resell,,,low,low,5,"GoDaddy.com, LLC",16/12/2025 21:50,16/12/2026 21:50,23/09/2026 02:03
 f66f8e5a-d445-4d5c-80f3-468fff8a2323,annelid.services,available,5.48,51.98,low,low,7,namecheap,,,
-8c0472d1-4082-4b5c-a740-16540ff22326,bared.services,available,15.99,,medium,low,5,name.com,,,
+8c0472d1-4082-4b5c-a740-16540ff22326,bared.services,available,14.99,38.99,low,low,5,namesilo,,,22/09/2026 17:24
 52a95312-997b-41ca-bf94-097ba35a04a7,toiletpaper.services,available,15.99,,high,low,12,name.com,,,
 8427c136-306b-4b5d-b979-c99562b8cef3,shocked.services,available,5.48,51.98,low,low,7,namecheap,,,
 c15aaf68-c71c-4d8a-babe-57020aa2347e,stockmarket.services,premium,46.2,92.4,high,low,12,namecheap,,,
@@ -107,7 +105,7 @@ ab46eeef-3b4f-4bb1-b1fb-1eac2ee9594a,styptic.services,available,5.48,51.98,low,l
 5370963e-4bbd-41b3-acd1-0f7631cc561a,giveafig.services,available,15.99,,medium,low,10,name.com,,,
 4c91688f-4608-460d-a015-945f1d00e5f4,stcharles.services,available,15.99,,medium,low,11,name.com,,,
 78123bc5-90ab-4edb-9cfe-884a0acd131e,spurious.services,available,5.48,51.98,low,low,8,namecheap,,,09/08/2026 00:03
-361a9b8e-b46e-490b-808a-b9e59b9f4025,twentysix.services,available,15.99,52.99,high,low,10,name.com,,,
+361a9b8e-b46e-490b-808a-b9e59b9f4025,twentysix.services,available,14.99,38.99,medium,low,10,namesilo,,,21/09/2026 12:53
 b544d206-272a-45ed-974d-470b41155347,modernistcuisine.services,available,15.99,,high,low,17,name.com,,,
 99049aa6-f2fb-47ae-a7fb-52fc642bca16,sensor.services,resell,,,high,low,6,"GoDaddy.com, LLC",15/09/2025 23:29,15/09/2026 23:29,
 de43191b-1bb4-470b-984f-f9aed1fe679e,beatable.services,available,5.48,51.98,low,low,8,namecheap,,,09/08/2026 05:37
@@ -126,21 +124,21 @@ e41122a8-24bc-4ccb-b5a0-b695fe0ac9eb,racing.services,premium,140,280,high,low,6,
 74146ae8-e66b-4e73-8399-c1de5d1581de,anoxemic.services,available,5.48,51.98,low,low,8,namecheap,,,
 08866959-61dd-4eb7-af4f-92116a622346,highschool.services,available,15.99,,high,low,10,name.com,,,
 e710825e-530e-4549-b4d0-7d1b4dddc474,definitively.services,available,15.99,,medium,low,12,name.com,,,
-4362bcf4-904f-4c1c-916f-9d69677c2990,tender.services,premium,82.5,82.5,high,low,6,name.com,,,
+4362bcf4-904f-4c1c-916f-9d69677c2990,tender.services,premium,78.54,78.54,medium,low,6,namesilo,,,21/09/2026 21:47
 18e3bff0-8ea3-49d0-a00a-f5a01f7bf011,hover.services,available,15.99,,medium,low,5,name.com,,,
-2bf59a80-4a6c-49ff-949d-af4a8b2c8664,xii.services,available,15.99,52.99,medium,low,3,name.com,,,
+2bf59a80-4a6c-49ff-949d-af4a8b2c8664,xii.services,available,5.48,51.98,low,low,3,namecheap,,,21/09/2026 11:25
 7c83d8c8-5751-431d-88bc-526e484823a5,wax.services,premium,140,280,medium,low,3,namecheap,,,
 f53968ef-5045-4b81-9d58-b7be8761ae19,unpaid.services,available,5.48,51.98,low,low,6,namecheap,,,
-f378ffba-525a-4623-ad69-8a60b26ef58b,antacid.services,available,15.99,,high,low,7,name.com,,,
+f378ffba-525a-4623-ad69-8a60b26ef58b,antacid.services,available,14.99,38.99,medium,low,7,namesilo,,,22/09/2026 05:43
 a22ace20-9d68-43ae-bb25-0b397a2f7b9c,amidship.services,available,5.48,51.98,low,low,8,namecheap,,,
 4593867a-d532-48e6-8b93-465822e6e29c,mousearound.services,available,15.99,,low,low,12,name.com,,,
 93fa0597-c373-421b-b329-5e7a44a66a49,grandjury.services,available,15.99,,medium,low,10,name.com,,,
-35285972-0fa0-418d-804e-4c7e9549ba3a,audacious.services,available,15.99,,high,low,9,name.com,,,
+35285972-0fa0-418d-804e-4c7e9549ba3a,audacious.services,available,14.99,38.99,medium,low,9,namesilo,,,22/09/2026 12:06
 3c27bdb5-0eab-4d3e-a049-0b5523e232de,jersey.services,available,,,high,low,6,,,,
 ce5c4b72-9dce-4b27-b775-04f1358c81e1,gelpen.services,available,15.99,,high,low,7,name.com,,,
 9047fecd-c8d0-446e-be1b-7aeb32e997b1,caustic.services,available,5.48,51.98,low,low,7,namecheap,,,
 664d922e-4200-4f0a-8ced-d36098862343,sickly.services,available,5.48,51.98,low,low,6,namecheap,,,
-1bb3ffac-0b42-4e8f-8308-0ba8e2b99c62,horseback.services,available,15.99,52.99,high,low,9,name.com,,,
+1bb3ffac-0b42-4e8f-8308-0ba8e2b99c62,horseback.services,available,5.48,51.98,medium,low,9,namecheap,,,21/09/2026 23:38
 74b4cced-3587-4f68-bcea-b909efe62cf6,dslr.services,available,15.99,,high,low,4,name.com,,,
 dacbc9a9-bf54-4a80-bb2b-d3ade35e43ab,respectively.services,available,15.99,,medium,low,12,name.com,,,
 29b285e4-5750-4c2e-9daa-64b508bf9e4c,hardfacts.services,available,15.99,,medium,low,10,name.com,,,
@@ -157,14 +155,14 @@ ac3ed58a-c57b-4d4d-8f0a-8d5d3c8ba983,frenchrepublic.services,available,,,medium,
 40bf57ea-06d2-4556-a31e-0dc89ae52a10,anarchic.services,available,5.48,51.98,low,low,8,namecheap,,,
 6a575711-8216-4ebe-bfa8-eac458db7ea0,marines.services,available,15.99,,high,low,7,name.com,,,
 a071b455-4829-4ca6-b83b-d230e1ceeec1,vent.services,premium,140,280,medium,low,4,namecheap,,,
-eb3eecad-c292-429a-a683-f3bed0bd1ea1,leading.services,resell,,,high,low,7,"GoDaddy.com, LLC",30/11/2025 17:42,30/11/2026 17:42,
+eb3eecad-c292-429a-a683-f3bed0bd1ea1,leading.services,resell,,,medium,low,7,"GoDaddy.com, LLC",30/11/2025 17:42,30/11/2026 17:42,21/09/2026 23:23
 5e9bf9c2-9042-46e9-823f-aa3ded89437f,amatory.services,available,5.48,51.98,low,low,7,namecheap,,,
 81ef81e9-a1c8-4537-a56c-e130d9b4cea8,iso.services,available,,,high,low,3,,,,
-676ac9a1-d570-4c00-8c37-22b72503c9bc,blurry.services,available,15.99,,medium,low,6,name.com,,,
+676ac9a1-d570-4c00-8c37-22b72503c9bc,blurry.services,available,14.99,38.99,low,low,6,namesilo,,,22/09/2026 23:23
 ea575372-d48e-466c-9318-fdae4661c460,spontaneous.services,available,15.99,,high,low,11,name.com,,,
 270fd463-1e47-43fc-a96e-8f935d475a16,masculine.services,available,15.99,,high,low,9,name.com,,,
 7e07201b-e950-4495-9813-e6519c78ca0a,amateurish.services,available,5.48,51.98,low,low,10,namecheap,,,
-d3deb4c5-836a-49e1-9fe0-c913b0904f62,equal.services,available,15.99,52.99,high,low,5,name.com,,,
+d3deb4c5-836a-49e1-9fe0-c913b0904f62,equal.services,available,5.48,51.98,medium,low,5,namecheap,,,21/09/2026 18:27
 7605108c-5b76-4af3-9bd0-a3d19f1ea26b,rubbingoil.services,available,15.99,,low,low,11,name.com,,,
 3db4c581-7d92-4a33-ac6c-9bc9c51202e7,crackers.services,available,5.48,51.98,low,low,8,namecheap,,,06/08/2026 20:45
 b0124355-8b29-4012-9090-d61b2670d83c,wouldithurt.services,available,15.99,,low,low,13,name.com,,,
@@ -183,14 +181,13 @@ c3517103-e71d-4b4f-af22-5b0839714990,autophytic.services,available,5.48,51.98,lo
 5db5ee3b-e0eb-4373-9ffc-7779a5b017fa,aphakic.services,available,5.48,51.98,low,low,7,namecheap,,,05/08/2026 22:56
 47414740-61a0-414c-aff1-dcec1707b524,terrifying.services,available,15.99,,medium,low,10,name.com,,,
 d0c86e11-d077-43ac-b973-d2a25f6fad2a,adscript.services,available,5.48,51.98,low,low,8,namecheap,,,
-7a2b5cf3-8126-4863-8dc2-ed84c128337b,lost.services,available,15.99,,medium,low,4,name.com,,,
 f735c145-daf2-43cc-a574-04da6631a0d3,aloud.services,available,15.99,,high,low,5,name.com,,,
 4b2d2728-76df-47c2-9a76-7279d766bedc,amnic.services,available,5.48,51.98,low,low,5,namecheap,,,
 de0a5bfa-826f-47c3-8147-a6cf01a94764,derive.services,available,15.99,,high,low,6,name.com,,,
 ee6b3293-a6f5-4a88-9549-5d635a600962,characteristic.services,available,15.99,,high,low,14,name.com,,,
 95fa3525-3f4b-4417-889d-c7fe9020b6c1,summertire.services,available,15.99,,high,low,11,name.com,,,
 bc06dcfe-bd11-47bd-a3b7-fca89f85b56b,thisafternoon.services,available,15.99,,low,low,14,name.com,,,
-de40d21f-c214-4a80-8c61-22def44e8749,augratin.services,available,15.99,,high,low,9,name.com,,,
+de40d21f-c214-4a80-8c61-22def44e8749,augratin.services,available,14.99,38.99,medium,low,9,namesilo,,,22/09/2026 11:47
 4cd4fe4a-040b-493a-9409-31dd4c665235,okboomer.services,available,15.99,,high,low,9,name.com,,,
 855c9cb1-b319-439f-a4bd-eae3820a6e8b,afrikander.services,available,5.48,51.98,low,low,10,namecheap,,,
 80ba6628-9471-4601-8ed5-8d78868f3b51,medicalreport.services,available,15.99,,medium,low,14,name.com,,,
@@ -270,14 +267,14 @@ ade39f8d-3461-4cc0-b0ea-dbe10b77988e,thermal.services,resell,,,medium,low,7,"GoD
 e138af69-2299-4c3c-ad66-083136ac0251,atacama.services,resell,,,medium,low,7,"GoDaddy.com, LLC",20/12/2025 21:51,20/12/2026 21:51,
 20dae281-8cd5-4db4-973a-7fce9df79b62,familiar.services,available,15.99,,high,low,8,name.com,,,
 0c9cdced-1663-433e-84f8-90b32d6cd4ae,agleam.services,available,5.48,51.98,low,low,6,namecheap,,,
-a645beea-4c13-47b0-a629-173ed29ae6de,colored.services,available,15.99,,high,low,7,name.com,,,
+8a0d8cd8-cee2-40e0-af1a-581c844edf6c,quick.services,resell,,,low,low,5,,,,21/09/2026 23:09
+a645beea-4c13-47b0-a629-173ed29ae6de,colored.services,available,5.48,51.98,low,low,7,namecheap,,,22/09/2026 20:23
 dca94665-852c-4153-9d60-9a18bdbaf8eb,oldage.services,available,15.99,,low,low,7,name.com,,,
 cbdcb18a-1d04-4258-af28-788c48bceef2,sportsfan.services,available,15.99,,high,low,10,name.com,,,
-19973c24-9d66-43c4-b2dc-508b2c5b7ab9,loose.services,available,15.99,,medium,low,5,name.com,,,
+19973c24-9d66-43c4-b2dc-508b2c5b7ab9,loose.services,available,14.99,38.99,low,low,5,namesilo,,,22/09/2026 10:42
 95d7eaec-e0ea-4967-b719-850e9a5157be,tell.services,resell,,,high,low,4,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,
 beaa77ee-6171-4973-886d-d41f86adc28a,convince.services,available,15.99,,high,low,8,name.com,,,
 c462aa82-e464-4bfa-a847-6478c61d74e0,below.services,available,15.99,52.99,medium,low,5,name.com,,,
-6af9fe3d-9272-442d-ab33-6268e604b683,guess.services,available,,,high,low,5,,,,
 3ec443f2-a576-4d58-9be0-68c0ff6c5cce,stealaway.services,available,15.99,,low,low,10,name.com,,,
 e2a648ee-4a8f-4b01-94f0-23e356995b61,jenny.services,resell,,,high,low,5,"GoDaddy.com, LLC",19/12/2025 12:25,19/12/2026 12:25,
 2bb66d0c-957a-4313-8df6-e9827b226c90,means.services,available,15.99,,high,low,5,name.com,,,
@@ -290,7 +287,7 @@ b3bb63b5-5140-4276-8b14-f9d7127f0295,punishing.services,available,5.48,51.98,low
 8ed9cf1a-1d0b-4c7b-9256-be18c0a3d008,strongcity.services,available,15.99,,medium,low,11,name.com,,,
 059f1ae9-b60e-4d07-a83b-c29fe64bcca2,rodshaped.services,available,5.48,51.98,low,low,10,namecheap,,,08/08/2026 05:07
 c2eb943d-09a5-4fb2-bc54-98ad8be4c8a1,speedup.services,available,15.99,,medium,low,8,name.com,,,
-9d9ab5f1-dad5-4c86-9f3f-3b96a932f3bc,television.services,premium,242,242,medium,low,10,namesilo,,,20/09/2026 02:37
+9d9ab5f1-dad5-4c86-9f3f-3b96a932f3bc,television.services,premium,242,242,medium,low,10,namesilo,,,23/09/2026 06:07
 28d2931e-b693-43b1-aeab-30f12d298d8f,comeright.services,available,15.99,,high,low,10,name.com,,,
 76542320-18bf-424d-bcaa-ada8c4a17080,coverage.services,resell,,,high,low,8,"GoDaddy.com, LLC",07/01/2026 10:22,07/01/2027 10:22,
 3d761dfa-d6e2-484a-af71-36f200a00742,shakira.services,available,15.99,,high,low,7,name.com,,,
@@ -312,12 +309,12 @@ d8969134-aa4b-49d6-be67-2bcff14044c2,seen.services,available,,,high,low,4,,,,
 4d4527e7-9b95-460f-b3c7-dd8d37bc85b4,aberdonian.services,available,5.48,51.98,low,low,10,namecheap,,,
 1c2342de-f206-4b81-9a5b-78ccd5ad3b4f,shakespeare.services,available,15.99,,high,low,11,name.com,,,
 8c320036-1c65-4de3-885c-bb0aeffd7457,punch.services,available,15.99,,high,low,5,name.com,,,
-85f1d156-6bce-4e53-849e-157024781d29,hotshot.services,available,15.99,,high,low,7,name.com,,,
+85f1d156-6bce-4e53-849e-157024781d29,hotshot.services,available,14.99,38.99,medium,low,7,namesilo,,,21/09/2026 17:48
 17d8f3ff-5e86-46ce-b212-0ab9ffcb076e,ocean.services,resell,,,high,low,5,"Spaceship, Inc.",19/08/2023 15:15,19/08/2027 15:15,21/09/2026 02:55
 2f8e9f57-6662-4c34-a359-8db539ffdb6c,uptospeed.services,available,15.99,,medium,low,11,name.com,,,
 fef9c55b-f69a-4b81-acee-c1fa7ce5a746,teaplant.services,available,15.99,,high,low,9,name.com,,,
 59922dd8-d208-42e9-8365-1a426c14429d,furtive.services,available,5.48,51.98,low,low,7,namecheap,,,08/08/2026 06:32
-8f0b240a-f868-41ce-8d5e-75cee9cfa5c1,wink.services,available,15.99,,high,low,4,name.com,,,
+8f0b240a-f868-41ce-8d5e-75cee9cfa5c1,wink.services,available,14.99,38.99,medium,low,4,namesilo,,,22/09/2026 22:05
 92081b9a-4e89-4762-a821-c0b7ffe35eeb,nothankyou.services,available,15.99,,medium,low,12,name.com,,,
 12f9735c-5e43-4dbf-9c0b-f3860abb8077,nowthat.services,available,15.99,,low,low,8,name.com,,,
 e37dc9a8-b69a-4512-9d15-048e9287d2c8,beggarly.services,available,5.48,51.98,low,low,8,namecheap,,,09/08/2026 09:01
@@ -332,7 +329,7 @@ c30a0edd-cce1-4f94-84dc-f66324f5fa78,acetonic.services,available,5.48,51.98,low,
 93e4c287-d0b4-49d5-b27a-b6e3168bcfc0,autocratic.services,available,5.48,51.98,low,low,10,namecheap,,,07/08/2026 18:52
 f86ebd61-2695-4a6a-adcf-b8d2ff5ad192,howdiditgo.services,available,15.99,,medium,low,13,name.com,,,
 60836a23-ae35-484e-8930-4318336936d3,tertiary.services,available,5.48,51.98,low,low,8,namecheap,,,
-1c00a04f-09a7-4419-891e-e36a81aefd21,agreed.services,available,15.99,52.99,high,low,6,name.com,,,
+1c00a04f-09a7-4419-891e-e36a81aefd21,agreed.services,available,14.99,38.99,medium,low,6,namesilo,,,21/09/2026 23:21
 8cb0a042-fb82-4bc1-8a0c-01c915391fa7,wander.services,resell,,,medium,low,6,"GoDaddy.com, LLC",19/12/2025 12:25,19/12/2026 12:25,
 d6412aee-928f-46cc-921c-a9875a139649,boost.services,resell,,,high,low,5,Dynadot Inc,07/09/2025 17:04,07/09/2026 17:04,
 88ae201d-5401-4909-9e24-754465b0ad39,created.services,resell,,,medium,low,7,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,
@@ -360,8 +357,8 @@ d810ac8a-bc43-4537-b89d-64dedb6f7ab1,tornadowarning.services,available,15.99,,me
 e98e30a3-4f5f-42df-a6af-7d19cf94f9fe,howlatthemoon.services,available,15.99,,high,low,16,name.com,,,
 bb08f779-55b3-47db-b856-3a13f02bdcd1,cosmetic.services,premium,82.5,82.5,high,low,8,name.com,,,
 75464add-30bc-44c6-85a9-c2d93eda4983,complete.services,resell,,,medium,low,8,"Sav.com, LLC - 21",07/05/2026 15:16,07/05/2027 15:16,19/09/2026 19:02
-a63afe86-575a-4a80-84c7-c3e24f7143a1,addicted.services,available,15.99,52.99,high,low,8,name.com,,,
-13bbdfbf-5f01-4543-8e23-fc53a05aa562,abundantly.services,available,15.99,,medium,low,10,name.com,,,
+a63afe86-575a-4a80-84c7-c3e24f7143a1,addicted.services,available,14.99,38.99,medium,low,8,namesilo,,,21/09/2026 17:07
+13bbdfbf-5f01-4543-8e23-fc53a05aa562,abundantly.services,available,15.99,,low,low,10,name.com,,,
 be92ae25-c8b1-44c4-81a1-9fbd4c240817,gosing.services,available,15.99,,high,low,7,name.com,,,
 1a9d83d8-d07f-45bf-841e-ca266bde64c4,retardant.services,available,15.99,,high,low,9,name.com,,,
 a3544084-650c-424e-95d3-23652105e9a5,childprostitution.services,available,15.99,,medium,low,18,name.com,,,
@@ -392,15 +389,14 @@ ec059b67-9bce-4aa9-af52-7fe7eced2dec,microwave.services,available,15.99,,high,lo
 e0e5824b-3632-4935-85c2-b2ef1b7e829a,anchoritic.services,available,5.48,51.98,low,low,10,namecheap,,,
 e58fc38b-2c88-4a65-bc07-c91caa6f27b1,howso.services,available,15.99,,medium,low,6,name.com,,,
 d90c7355-2c0a-44f8-bb68-905d44635e07,wheel.services,resell,,,high,low,5,"GoDaddy.com, LLC",10/01/2026 15:59,10/01/2027 15:59,
-12e88cf2-ac03-4f73-b31f-b55d7fe005e2,before.services,available,15.99,52.99,high,low,6,name.com,,,
-345da080-05f1-4dd0-8a37-4894032ed49f,flamboyant.services,available,15.99,,medium,low,10,name.com,,,
-e35a794b-da76-48c1-9856-a55ff3aa2a43,cracked.services,available,15.99,52.99,high,low,7,name.com,,,
+345da080-05f1-4dd0-8a37-4894032ed49f,flamboyant.services,available,14.99,38.99,low,low,10,namesilo,,,22/09/2026 12:57
+e35a794b-da76-48c1-9856-a55ff3aa2a43,cracked.services,available,14.99,38.99,low,low,7,namesilo,,,22/09/2026 01:30
 8fb7d2f6-fe82-479f-a871-c6abd7df1e85,scratched.services,available,15.99,,medium,low,9,name.com,,,
 be767b15-e4bc-4edc-a5f2-c878c9133a13,represented.services,available,15.99,,medium,low,11,name.com,,,
 ed8fbefc-3871-4331-a50f-9fe9174fc870,coffeemoney.services,available,15.99,,high,low,12,name.com,,,
 0fdd4929-964a-4802-8c9d-ffc18e723cb5,aurous.services,available,5.48,51.98,low,low,6,namecheap,,,07/08/2026 17:31
-86618bd5-e07c-4679-810a-562f288fdeeb,documented.services,available,15.99,,medium,low,10,name.com,,,
-9932adbf-581e-4197-a75f-c8bcca0d2270,later.services,available,15.99,52.99,high,low,5,name.com,,,
+86618bd5-e07c-4679-810a-562f288fdeeb,documented.services,available,14.99,38.99,low,low,10,namesilo,,,22/09/2026 11:37
+9932adbf-581e-4197-a75f-c8bcca0d2270,later.services,available,5.48,51.98,medium,low,5,namecheap,,,21/09/2026 22:11
 dc4b2f2b-464c-485b-a1db-c1a7c8b7e13b,daring.services,available,5.48,51.98,medium,low,6,namecheap,,,07/08/2026 21:39
 adfc0a70-cd5a-4e0d-9b1c-04f9e670796c,admittible.services,available,5.48,51.98,low,low,10,namecheap,,,
 e7f8c0e7-0714-4b97-aed7-a30e239acea5,pratabout.services,available,15.99,,low,low,10,name.com,,,
@@ -425,7 +421,7 @@ e7220926-e553-40a9-a23d-560e27ff58fe,befitting.services,available,5.48,51.98,low
 1c44b1e4-fc25-422b-9d9f-d3b2cb06ce8b,troublemaker.services,available,15.99,,medium,low,13,name.com,,,
 c016b011-7832-4b3f-8f8b-0db6d87c5d96,energizing.services,available,5.48,51.98,medium,low,10,namecheap,,,
 d7605fb0-e76a-415b-bb14-5cf67684958e,augustan.services,available,5.48,51.98,low,low,8,namecheap,,,07/08/2026 17:15
-57fff9c7-00f6-4885-a528-2e6cc80b4ce1,anticancer.services,available,15.99,,high,low,10,name.com,,,
+57fff9c7-00f6-4885-a528-2e6cc80b4ce1,anticancer.services,available,14.99,38.99,medium,low,10,namesilo,,,22/09/2026 06:38
 729c8c56-10bc-42e1-8011-17188df8086d,keepscore.services,available,15.99,,high,low,10,name.com,,,
 70b72a20-08eb-4d5d-8014-ba9c7ed9356f,archosaur.services,available,5.48,51.98,low,low,9,namecheap,,,06/08/2026 15:57
 7aa3c12c-0ae7-4462-afaa-651cb427acb3,tire.services,resell,,,high,low,4,Porkbun LLC,09/06/2025 19:41,09/06/2026 19:41,
@@ -448,16 +444,15 @@ f026d66a-7891-40ff-b7a5-75a6557c36c2,niece.services,available,15.99,,medium,low,
 a69291fd-9344-49be-a18a-d2c5afee7387,mawkish.services,available,5.48,51.98,low,low,7,namecheap,,,09/08/2026 00:48
 783d28bc-bf88-4a99-8751-b44ff42d182c,identified.services,available,15.99,,medium,low,10,name.com,,,
 0e522bec-2f30-4c54-91a2-d779ae3d52a7,simpler.services,resell,,,medium,low,7,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,
-f6916e84-becb-4a50-b029-eba2350ea19f,late.services,available,,,high,high,4,,,,
 4926e573-2c27-4a9b-9dc4-765ac412bc88,cometomind.services,available,15.99,,high,low,12,name.com,,,
-f160dde6-9993-4414-b83f-3f2079468724,out.services,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 10:34
+f160dde6-9993-4414-b83f-3f2079468724,out.services,premium,42.9,85.8,medium,low,3,namecheap,,,23/09/2026 05:30
 955c58a0-4d6a-49b6-bcae-6b23d9e50cd1,affirmative.services,available,15.99,,high,low,11,name.com,,,
 eefdab10-a33b-4494-88f1-d3b3ff87a17a,acidulous.services,available,5.48,51.98,low,low,9,namecheap,,,
 10f5e2d3-4b6c-4c9d-b07c-d5cd91bcf360,stfrancis.services,available,15.99,,medium,low,11,name.com,,,
 cd04c39e-fbd4-4999-8cf2-eabcb0805baf,xlvii.services,available,5.48,51.98,low,low,5,namecheap,,,
 250cda26-b4d3-44e9-9cb4-6ec99bbdf294,appreciate.services,available,15.99,,high,low,10,name.com,,,
 87bf2faf-38c6-40e3-8de4-c54dfaf98e92,comforted.services,available,15.99,,high,low,9,name.com,,,
-2a2204ce-88f9-4736-841b-f33d65dc8c92,weary.services,available,15.99,,medium,low,5,name.com,,,
+2a2204ce-88f9-4736-841b-f33d65dc8c92,weary.services,available,14.99,38.99,low,low,5,namesilo,,,22/09/2026 15:10
 164816ca-39c7-45e5-9f47-d1fd949e2376,bacillar.services,available,5.48,51.98,low,low,8,namecheap,,,08/08/2026 04:51
 3cd61c01-865c-4439-a96c-745c4b8b50d0,ninth.services,available,5.48,51.98,low,low,5,namecheap,,,
 f380654d-fcc8-429a-9802-7f3376388af0,soundbar.services,available,15.99,,high,low,8,name.com,,,
@@ -466,6 +461,7 @@ b9570b46-e379-4481-acae-a91e09b399dc,exchange.services,available,,,high,high,8,,
 77a00180-db87-4c60-9968-b3df0b86f78d,altricial.services,available,5.48,51.98,low,low,9,namecheap,,,
 bb81f305-fd95-464f-9c0c-e8239e70c681,breatheeasy.services,available,15.99,,high,low,12,name.com,,,
 55653789-9168-4471-8a05-d7d7d4158f7d,affected.services,available,5.48,51.98,low,low,8,namecheap,,,
+7fd8d6f1-91d6-4859-ab3a-ef3ba128db8d,allied.services,resell,,,medium,low,6,,,,22/09/2026 01:28
 2a4754a5-5c89-49df-9f39-ea13449d325b,algal.services,available,5.48,51.98,low,low,5,namecheap,,,
 0eccb7be-2aa9-4161-9877-aab409149c0a,rightandleft.services,available,15.99,,low,low,14,name.com,,,
 55bd6f8d-0c68-467d-9b68-71eb4074a16c,ataloss.services,available,5.48,51.98,low,low,9,namecheap,,,07/08/2026 10:58
@@ -474,7 +470,7 @@ bb81f305-fd95-464f-9c0c-e8239e70c681,breatheeasy.services,available,15.99,,high,
 8d76da58-513f-4b67-af3d-08df45345d3e,atthesametime.services,available,15.99,,high,low,16,name.com,,,
 e027df53-73f5-47cc-b3b8-28f0f8563aaf,april.services,available,,,high,low,5,,,,
 fd75403b-553f-463b-b1d2-218b81ccf48e,anagogic.services,available,5.48,51.98,low,low,8,namecheap,,,
-a7c6c39e-2c2b-44bb-8776-61774f1e64f8,ageing.services,available,15.99,52.99,high,low,6,name.com,,,
+a7c6c39e-2c2b-44bb-8776-61774f1e64f8,ageing.services,available,14.99,38.99,low,low,6,namesilo,,,21/09/2026 22:43
 b0d9a938-253a-43f5-aec9-ffa13dff9029,pimpled.services,available,5.48,51.98,low,low,7,namecheap,,,
 e629b8ff-e391-4f29-89aa-89c8a9aec150,havethefirstidea.services,available,15.99,,medium,low,19,name.com,,,
 38b24fc8-02a8-4636-9f8a-5ed94c5f2854,amylolytic.services,available,5.48,51.98,low,low,10,namecheap,,,
@@ -517,7 +513,7 @@ f2eb8e51-7966-4c01-b527-2f10832a60ae,neworleans.services,premium,140,280,medium,
 e11a4cdf-3d0f-443e-94be-d965810e8fb9,eighteenth.services,available,5.48,51.98,low,low,10,namecheap,,,
 fab3cac7-6158-44e4-8608-8495274b5136,thisandthat.services,available,15.99,,low,low,13,name.com,,,
 c04ba615-5726-4ac6-9175-df68fa115027,estival.services,available,5.48,51.98,low,low,7,namecheap,,,
-f56f9ce5-71b9-4914-99cd-a068be2b83a4,amalgamate.services,available,15.99,52.99,high,low,10,name.com,,,
+f56f9ce5-71b9-4914-99cd-a068be2b83a4,amalgamate.services,available,14.99,38.99,medium,low,10,namesilo,,,22/09/2026 03:01
 37255b64-84aa-4995-a4e5-64a48cbc5d54,acapnic.services,available,5.48,51.98,low,low,7,namecheap,,,
 1612530d-da99-46ac-ba19-0095306934f9,limestone.services,resell,,,medium,low,9,"GoDaddy.com, LLC",14/10/2025 18:59,14/10/2026 18:59,
 0b29624d-c860-4e93-b31a-59a4b3f20fa7,abused.services,available,5.48,51.98,low,low,6,namecheap,,,
@@ -525,13 +521,12 @@ f56f9ce5-71b9-4914-99cd-a068be2b83a4,amalgamate.services,available,15.99,52.99,h
 31269f95-3a11-443b-b0fc-509c83fae475,unfounded.services,available,5.48,51.98,low,low,9,namecheap,,,08/08/2026 21:57
 7451335f-b291-4483-8ba6-2174a9520c39,safersex.services,available,15.99,,medium,low,9,name.com,,,
 1378dc07-b00e-4570-b93a-cf09a17bde3d,getwell.services,available,15.99,,high,low,8,name.com,,,
-ebb98840-f220-4764-a1c1-c027f0d7ab2b,nought.services,available,15.99,52.99,high,low,6,name.com,,,
+ebb98840-f220-4764-a1c1-c027f0d7ab2b,nought.services,available,5.48,51.98,medium,low,6,namecheap,,,21/09/2026 10:34
 fccff91d-e404-42bc-a06d-454add279d5c,failedstate.services,available,15.99,,medium,low,12,name.com,,,
 341d287b-e02b-4900-9437-dc454210cd06,suspension.services,available,15.99,,medium,low,10,name.com,,,
 37594e26-b2fb-4726-bc2e-383d15ed22f1,anaerobic.services,available,5.48,51.98,low,low,9,namecheap,,,
 eb5d39e0-ebca-4b90-8dcb-0312ac2c9b3e,inch.services,available,15.99,,medium,low,4,name.com,,,
 26db62d5-89e6-4bfd-8f3f-0919afd3e773,vaccination.services,available,15.99,,medium,low,11,name.com,,,
-b6f44c20-9928-47dc-91e5-ec03c0081880,cherry.services,resell,,,high,low,6,Dynadot Inc,09/06/2025 03:02,09/06/2026 03:02,
 207688a2-0db2-446a-83ff-73cfc577585a,corrected.services,available,15.99,52.99,high,low,9,name.com,,,
 e439edf8-d202-4974-a9f6-3af90c759231,fog.services,available,15.99,,high,low,3,name.com,,,
 c88524ce-a9d5-40e1-aa5a-cef435471c7f,addresses.services,available,15.99,,medium,low,9,name.com,,,
@@ -539,12 +534,12 @@ c88524ce-a9d5-40e1-aa5a-cef435471c7f,addresses.services,available,15.99,,medium,
 9c8dacaf-1395-497f-9f44-9fbf7a4c2885,sympathize.services,available,15.99,,high,low,10,name.com,,,
 c30cef13-8c35-48e9-8d79-3e22b38a8f01,dishwasher.services,available,15.99,,high,low,10,name.com,,,
 232a780b-8175-4a28-921e-91c7c492a9fe,greedy.services,available,5.48,51.98,low,low,6,namecheap,,,07/08/2026 22:09
-64dfa777-3a2e-4152-b6e8-cf982f6989fd,wing.services,resell,,,medium,low,4,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,
+64dfa777-3a2e-4152-b6e8-cf982f6989fd,wing.services,resell,,,low,low,4,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,22/09/2026 15:49
 c67bd934-5684-4540-8abc-932dc41341b0,indifferent.services,available,15.99,,high,low,11,name.com,,,
 275c1e68-b272-4e56-8e2d-8d3ee81530b1,mitigative.services,available,5.48,51.98,low,low,10,namecheap,,,
 d2f063c9-753d-4e59-846e-e388beb2cab7,rockmusic.services,available,15.99,,medium,low,10,name.com,,,
 19ab676b-b844-41c2-9276-9bea3cbf8f81,surprising.services,available,15.99,,high,low,10,name.com,,,
-6ecd10ba-7143-478d-8dc9-a6920a6e2f75,star.services,resell,,,high,medium,4,"Spaceship, Inc.",28/06/2015 13:33,28/06/2026 13:33,
+6ecd10ba-7143-478d-8dc9-a6920a6e2f75,star.services,resell,,,medium,low,4,"Spaceship, Inc.",28/06/2015 13:33,28/06/2027 13:33,21/09/2026 17:48
 1ca6061d-e6d6-469a-b47b-346a5f072282,reebok.services,available,15.99,,high,low,6,name.com,,,
 75e6f9b0-1397-4d49-8d46-1cb235d1a169,middleeastern.services,premium,46.2,92.4,medium,low,14,namecheap,,,
 53c680c6-36d9-430a-aef1-0ffc61181571,preceding.services,available,15.99,,low,low,9,name.com,,,
@@ -574,12 +569,12 @@ ebc9ff91-ea2c-4369-9848-e738ba21e91e,arrayed.services,available,5.48,51.98,low,l
 70ec4991-f429-4696-9c17-789d0b1d27a8,whitebalance.services,available,15.99,,low,low,13,name.com,,,
 4c02f1ce-86b5-408b-aa50-e1242f9e5a38,dieselengine.services,available,15.99,,high,low,13,name.com,,,
 3d7c974f-94ef-4858-aa97-f376829b65f5,ablaze.services,available,5.48,51.98,low,low,6,namecheap,,,
-e990ec1c-e402-4f6a-a1ae-9823cc54a47e,aboutship.services,available,15.99,,high,low,10,name.com,,,
+e990ec1c-e402-4f6a-a1ae-9823cc54a47e,aboutship.services,available,15.99,,medium,low,10,name.com,,,
 c486fb4e-44d5-4ff2-af9d-3531eeb67d0d,lucrative.services,available,15.99,,high,low,9,name.com,,,
 cadd9a9e-9e80-464e-9e1b-91af67d10508,philadelphia.services,premium,280,560,high,low,12,namecheap,,,
 fdc886e4-a8a1-4aad-9a7d-64a3a0c0633d,overwhelm.services,available,15.99,,high,low,9,name.com,,,
-09391475-7755-4589-9c0d-9ee09af033e7,improvise.services,available,15.99,52.99,high,low,9,name.com,,,
-beba70f1-0c9d-4e05-9c07-1ac2503042dc,dozen.services,available,15.99,52.99,high,low,5,name.com,,,
+09391475-7755-4589-9c0d-9ee09af033e7,improvise.services,available,14.99,38.99,medium,low,9,namesilo,,,21/09/2026 16:45
+beba70f1-0c9d-4e05-9c07-1ac2503042dc,dozen.services,available,14.99,38.99,medium,low,5,namesilo,,,21/09/2026 11:29
 227b4163-a116-4941-a721-84f82e5f122b,apostolic.services,available,,,medium,low,9,,,,
 03c4f129-98c8-4fbd-a66c-f4bfb83aab5f,hairfollicle.services,available,15.99,,high,low,13,name.com,,,
 7d20ef8c-a98a-46f9-b2ab-47cb9ac854f8,idcard.services,available,,,high,low,7,,,,
@@ -622,7 +617,7 @@ adc03b42-ce08-4d82-8f96-b6bb707bdf3d,directly.services,available,15.99,52.99,hig
 ad6760f4-aa74-49d0-999a-cbbd7a858e75,saddletree.services,available,15.99,,low,low,11,name.com,,,
 33f6ffab-e7e4-4cb1-afd2-d956244524f8,smileyface.services,available,15.99,,high,low,11,name.com,,,
 64d36134-3400-49b4-b275-15fa81f601dc,legs.services,available,15.99,,high,low,4,name.com,,,
-01fd2b21-ed4c-4df9-ac19-0392308a772c,riveting.services,available,15.99,52.99,high,low,8,name.com,,,
+01fd2b21-ed4c-4df9-ac19-0392308a772c,riveting.services,available,14.99,38.99,medium,low,8,namesilo,,,21/09/2026 15:09
 692c2abd-b761-4448-b53d-37db68e1e0b1,withoutfail.services,available,15.99,,high,low,12,name.com,,,
 be89a892-526b-41b6-ac65-c179bdef7ddb,manyatimeandoft.services,available,15.99,,medium,low,19,name.com,,,
 b31e0361-8830-41e4-9f5b-facdc495f7c4,unaired.services,available,5.48,51.98,low,low,7,namecheap,,,
@@ -671,17 +666,17 @@ faecac8c-6f9b-4850-81b1-3ef0fce23aa4,antigenic.services,available,,,medium,low,9
 3fb220bc-c82c-4bb8-b189-a778a620f66b,ladiesfirst.services,available,15.99,,medium,low,12,name.com,,,
 3d46b8a6-027d-42e0-82e3-59fcc7db89c5,allogeneic.services,available,5.48,51.98,low,low,10,namecheap,,,
 91a4f638-409b-4241-8702-6e7db62bbd91,arcuate.services,available,5.48,51.98,low,low,7,namecheap,,,06/08/2026 14:49
-0e53ba38-87a6-4c2e-a74c-43c0f434ca4c,awfully.services,available,15.99,,medium,low,7,name.com,,,
+0e53ba38-87a6-4c2e-a74c-43c0f434ca4c,awfully.services,available,5.48,51.98,low,low,7,namecheap,,,22/09/2026 15:26
 67a64d71-00f2-4081-843f-5e990f376005,freaking.services,available,15.99,,high,low,8,name.com,,,
 d9fcdcf6-14ee-4ae6-a349-e6900866ec3f,number.services,premium,140,280,high,low,6,namecheap,,,
 6d28d544-211f-49f0-aacb-4449c4704e7e,khakis.services,available,15.99,,high,low,6,name.com,,,
 827f42c0-2866-4aa7-83be-a7df5da23fde,afebrile.services,available,5.48,51.98,low,low,8,namecheap,,,
-ec038c17-c14b-4636-8dfb-574f8937f18e,accessory.services,available,15.99,52.99,high,low,9,name.com,,,
+ec038c17-c14b-4636-8dfb-574f8937f18e,accessory.services,available,14.99,38.99,medium,low,9,namesilo,,,21/09/2026 15:35
 1beff1c9-5d14-41b0-b127-50265d9b806f,hater.services,available,15.99,,medium,low,5,name.com,,,
 dc588072-f767-448f-82d5-6999829c7c64,analeptic.services,available,5.48,51.98,low,low,9,namecheap,,,
 91bf4750-82f0-4f4c-b87f-7188ef7074d4,energy.services,resell,,,medium,medium,6,Dynadot Inc,09/09/2016 07:56,09/09/2027 07:56,04/09/2026 13:30
 1d024013-1eaf-4528-b4ea-fe0a64d28070,getopen.services,available,15.99,,high,low,8,name.com,,,
-b8a58396-b5ae-4d1e-b3e7-8e1fb366252b,asleep.services,available,15.99,,high,low,6,name.com,,,
+b8a58396-b5ae-4d1e-b3e7-8e1fb366252b,asleep.services,available,14.99,38.99,medium,low,6,namesilo,,,22/09/2026 09:45
 961ac469-3963-44a5-926f-5d4502c81d3c,faxmachine.services,available,15.99,,medium,low,11,name.com,,,
 af456ba0-7d8f-4191-8818-a2735072dfce,atthelast.services,available,15.99,,medium,low,11,name.com,,,
 cbdf15a1-eae0-4908-8ee3-d6374b8dfa89,mothafucker.services,available,15.99,,medium,low,11,name.com,,,
@@ -701,7 +696,7 @@ fac27e11-cc93-4ea2-b6b7-ce6e5397a206,thankyoucard.services,available,15.99,,low,
 e18c6a51-3f95-4a79-8869-a0c6e81832d8,quint.services,available,5.48,51.98,low,low,5,namecheap,,,
 53262643-7255-425d-9c79-c149edd14b4d,sliced.services,available,15.99,,high,low,6,name.com,,,
 5d6e1bf1-8b27-4a7f-94c4-f4f01efba34c,alight.services,available,5.48,51.98,low,low,6,namecheap,,,
-26de5746-58bd-43b4-bcca-f6471956bd9e,ground.services,resell,,,high,low,6,"eNom, LLC",10/07/2014 09:36,10/07/2027 09:36,18/09/2026 13:36
+26de5746-58bd-43b4-bcca-f6471956bd9e,ground.services,resell,,,medium,low,6,"eNom, LLC",10/07/2014 09:36,10/07/2027 09:36,22/09/2026 17:38
 484cd2a7-373d-4efb-8d3d-449f284e133d,basics.services,available,15.99,,high,low,6,name.com,,,
 dbbf3a45-db43-484d-9c4e-05fe61b5e531,stygian.services,available,5.48,51.98,low,low,7,namecheap,,,
 7ee7c96b-c86c-44ed-ac41-fd4381bef67e,seoul.services,premium,280,560,high,low,5,namecheap,,,
@@ -729,12 +724,12 @@ be6e2b08-80e5-442e-b868-f75403dd112d,chanukkah.services,available,15.99,,medium,
 c150dfd4-785d-4b68-b877-7e0c6526bb27,getreligion.services,available,15.99,,high,low,12,name.com,,,
 7553c33d-8a3b-4ca9-a047-1acefa926beb,getthepicture.services,available,15.99,,high,low,15,name.com,,,
 bd783840-4dd4-44eb-b229-559914da7fb6,flyingsaucer.services,available,15.99,,high,low,13,name.com,,,
-37be70b5-6cd3-4347-ab49-9e67615fa9f2,subsidiary.services,available,15.99,,high,low,10,name.com,,,
-97863fd7-611c-482d-a97f-eac30db50b3d,plotted.services,available,15.99,52.99,high,low,7,name.com,,,
+37be70b5-6cd3-4347-ab49-9e67615fa9f2,subsidiary.services,available,15.99,52.99,medium,low,10,name.com,,,22/09/2026 14:17
+97863fd7-611c-482d-a97f-eac30db50b3d,plotted.services,available,14.99,38.99,low,low,7,namesilo,,,21/09/2026 22:10
 44cc4651-7303-431c-98d6-d9f652078aa7,lie.services,available,15.99,,medium,low,3,name.com,,,
 9b4080ea-0d80-4969-8892-efe29c3873e6,barbellate.services,available,5.48,51.98,low,low,10,namecheap,,,08/08/2026 16:57
 221e227a-d56a-4b43-827f-42f9a678bb47,atpresent.services,available,15.99,,medium,low,10,name.com,,,
-ca49ad8b-1fb5-40c5-8fe9-80505c1f6f36,twentieth.services,available,15.99,52.99,high,low,9,name.com,,,
+ca49ad8b-1fb5-40c5-8fe9-80505c1f6f36,twentieth.services,available,14.99,38.99,medium,low,9,namesilo,,,21/09/2026 12:27
 1fb37602-0cce-43dd-9de5-4287c4190ba1,upabove.services,available,15.99,,low,low,8,name.com,,,
 64cbb156-6e96-45da-8d83-04b30c0086a3,aeriferous.services,available,5.48,51.98,low,low,10,namecheap,,,
 08afa1dc-99d6-4f71-969e-c2eed72d8a54,beakless.services,available,5.48,51.98,low,low,8,namecheap,,,09/08/2026 03:55
@@ -745,7 +740,7 @@ e8c39bfc-af68-4f21-81c9-4b49f9bb0539,annually.services,available,15.99,,medium,l
 40dee549-cc22-4cf4-abd0-a7bcfa832c8f,capitol.services,premium,140,280,medium,low,7,namecheap,,,
 bf1df7b6-429e-4109-b57d-8ef5b7f3216b,computerlanguage.services,available,15.99,,high,low,17,name.com,,,
 7180cacc-f129-46d3-994f-77575064b002,confusing.services,available,15.99,52.99,medium,low,9,name.com,,,
-917f2e98-2148-4ef5-9a64-422b67526a42,engrossed.services,available,15.99,52.99,high,low,9,name.com,,,
+917f2e98-2148-4ef5-9a64-422b67526a42,engrossed.services,available,14.99,38.99,medium,low,9,namesilo,,,21/09/2026 15:00
 472ed42d-e8ba-42d5-96b6-4ccbfdc5e260,indespiteof.services,available,15.99,,medium,low,13,name.com,,,
 f09e0443-5fed-43bd-81d1-825f994e8abc,whitepepper.services,available,15.99,,low,low,12,name.com,,,
 d2d6fe80-3781-41f0-9ae2-6f31a8ee89c8,acned.services,available,5.48,51.98,low,low,5,namecheap,,,
@@ -778,7 +773,6 @@ f70846eb-90f5-4b47-8f30-7c6d28ab0373,sounded.services,available,15.99,,low,low,7
 69ac887b-c394-46bf-a677-23220918655b,speculation.services,available,15.99,,low,low,11,name.com,,,
 be5068ee-38a9-4073-a4be-3bf80f5bdbdd,amphibious.services,available,5.48,51.98,low,low,10,namecheap,,,
 52009c2e-4191-4753-b6c9-1b3ab38af7ac,cricket.services,premium,140,280,high,low,7,namecheap,,,
-07c26c61-0a08-47ac-be2b-d5403775ab13,stellar.services,resell,,,high,medium,7,"Sav.com, LLC - 20",04/06/2025 15:15,04/06/2026 15:15,
 7e0663d2-8715-42c7-8f81-509d3d2b5392,sailor.services,available,,,high,low,6,,,,
 aedbbbcf-2449-4e61-b994-d6d3140b1158,noreally.services,available,15.99,,high,low,9,name.com,,,
 2ad9fb64-bb1f-4ac6-b667-5d05b5537a06,reset.services,available,,,high,low,5,,,,
@@ -807,7 +801,7 @@ c1f4e9af-e66f-462b-b7fa-c04ceff2ef20,durable.services,resell,,,high,low,7,"GoDad
 3e21453b-cb9b-449a-af14-78c9f148e661,blockaded.services,available,5.48,51.98,low,low,9,namecheap,,,08/08/2026 20:42
 d6a6f850-1157-4568-ac61-1e89a2bcb033,worried.services,available,15.99,52.99,high,low,7,name.com,,,
 3902a418-8ad2-4dae-9b9d-890c7c16b784,delayed.services,available,15.99,52.99,medium,low,7,name.com,,,
-91d2ac30-817c-4215-ad88-2b369ae87e4a,avocado.services,available,15.99,,high,low,7,name.com,,,
+91d2ac30-817c-4215-ad88-2b369ae87e4a,avocado.services,available,15.99,52.99,medium,low,7,name.com,,,22/09/2026 14:34
 1f687379-72e5-4684-8d6b-3e7b2dc04059,bust.services,available,15.99,,high,low,4,name.com,,,
 a7615a9c-2410-487c-b93b-b46709956bfb,pleased.services,available,15.99,,high,low,7,name.com,,,
 676f55e9-dfee-491a-b566-69fd810fd661,asyndetic.services,available,5.48,51.98,low,low,9,namecheap,,,07/08/2026 10:34
@@ -817,7 +811,7 @@ d108f290-ec2a-495f-bd31-0f42ba9e56c3,brushing.services,available,15.99,,high,low
 355ca1c8-89c0-41a1-9ca5-f01fb499bdc8,respectful.services,available,15.99,,high,low,10,name.com,,,
 45312faa-2fbf-4e33-bfe3-bfcc8cc60c60,transitions.services,available,,,low,low,11,,,,
 52cff1b2-546a-4917-b96d-f16f236bac2e,misbegot.services,available,5.48,51.98,low,low,8,namecheap,,,08/08/2026 23:59
-5b758348-9185-46ef-9b6d-fc521b711f7f,off.services,premium,242,242,high,low,3,namesilo,,,18/09/2026 13:36
+5b758348-9185-46ef-9b6d-fc521b711f7f,off.services,premium,242,242,medium,low,3,namesilo,,,22/09/2026 14:54
 cd25d967-da3c-4e89-8e0f-fd50945a66ed,astimesgo.services,available,15.99,,medium,low,11,name.com,,,
 11fe04b1-b0d2-457f-829a-78141ef7cf7f,balding.services,available,5.48,51.98,low,low,7,namecheap,,,08/08/2026 09:35
 432e3eef-34da-4cfa-b026-d957ec5a9b6f,usage.services,available,15.99,52.99,high,low,5,name.com,,,
@@ -825,7 +819,7 @@ b760684f-a18d-49d9-9bbd-4f80c0a7f8e4,anxiolytic.services,available,5.48,51.98,lo
 2ee55afb-2532-4abb-bb53-bfd95ff9f96f,arbitral.services,available,5.48,51.98,low,low,8,namecheap,,,06/08/2026 12:48
 45fde070-b609-4da7-81a4-bb027b842468,bullish.services,available,15.99,,high,low,7,name.com,,,
 e06335f9-ac6f-44ec-9b9b-81ef8b5deabd,joking.services,available,15.99,,high,low,6,name.com,,,
-8dec7c37-ef88-4588-a016-943f038434de,verywell.services,available,15.99,52.99,medium,low,9,name.com,,,
+8dec7c37-ef88-4588-a016-943f038434de,verywell.services,available,5.48,51.98,low,low,9,namecheap,,,22/09/2026 01:12
 5b2c6d3f-2a5b-4d0c-a86d-5ac85158b0a7,lamp.services,available,15.99,,medium,low,4,name.com,,,
 4525aff8-c3dc-47bd-8d76-14c68d71c610,adscripted.services,available,5.48,51.98,low,low,10,namecheap,,,
 0603e995-e07d-4d1a-89c8-603b67ab8dc0,widely.services,available,15.99,,medium,low,6,name.com,,,
@@ -840,7 +834,7 @@ f3be3873-1a19-48d9-b150-3c8cff52728d,ascetical.services,available,5.48,51.98,low
 681b657e-0fbd-44af-8d36-6fba7fe2a069,lover.services,available,15.99,,high,low,5,name.com,,,
 2b7a0b13-2cee-4fb8-bb6a-df4bf8b98a91,compensate.services,available,15.99,,high,low,10,name.com,,,
 2d48b4e5-74b6-45a8-bca4-dba6811e9cbc,bigben.services,available,15.99,,high,low,7,name.com,,,
-ec280e6c-2569-43b3-8a90-0b2032924a87,discovered.services,available,15.99,,medium,low,10,name.com,,,
+ec280e6c-2569-43b3-8a90-0b2032924a87,discovered.services,available,14.99,38.99,low,low,10,namesilo,,,22/09/2026 09:21
 840255f6-86ad-4c21-9659-088142532010,referable.services,available,5.48,51.98,low,low,9,namecheap,,,07/08/2026 01:28
 46429ee3-286a-4ef3-8b60-1d0d4d68d61d,removal.services,premium,280,560,medium,low,7,namecheap,,,
 15394185-0710-4c10-9ce0-2885b45d8981,concluded.services,available,5.48,51.98,low,low,9,namecheap,,,
@@ -868,6 +862,7 @@ cdf98a63-c62f-483d-b3f5-51dd020c3c1b,asyoulike.services,available,15.99,,high,lo
 df9f82b2-49c2-4251-bf61-844b3d61c00d,axonal.services,available,5.48,51.98,low,low,6,namecheap,,,08/08/2026 02:01
 6b7b1f7c-6f93-412d-9e18-02e8a7d8827f,abounding.services,available,5.48,51.98,low,low,9,namecheap,,,
 f02ed1b7-297f-481c-a78b-ac5b5f7b8947,alacritous.services,available,5.48,51.98,low,low,10,namecheap,,,
+d1bd7116-b36f-4f76-8f7a-6c19a14fbe55,artificial.services,resell,,,medium,low,10,Dynadot Inc,23/08/2026 17:00,23/08/2027 17:00,22/09/2026 08:57
 d90a0665-c6c7-44d1-b2c6-bb1710b5c574,alaska.services,resell,,,high,low,6,"GoDaddy.com, LLC",12/11/2017 09:20,12/11/2026 09:20,
 419adaa9-c0b2-479f-8886-8dc1dcea6332,accrued.services,available,5.48,51.98,low,low,7,namecheap,,,
 153e597a-8552-4059-aec3-b013cca13a29,abranchial.services,available,5.48,51.98,low,low,10,namecheap,,,
@@ -876,7 +871,7 @@ e918d0a8-d5d1-4283-ac11-d2d64e50c2f2,lcd.services,resell,,,high,low,3,"GoDaddy.c
 3f9644f5-1730-4ea7-8440-ed934f5d1dab,longisland.services,premium,140,280,medium,low,11,namecheap,,,
 805599ae-4963-4454-b650-d931fa4f1957,shakehands.services,available,15.99,,medium,low,11,name.com,,,
 ccee7d1f-b24e-4f9e-8b46-86941b684163,arts.services,resell,,,medium,low,4,"Sav.com, LLC",15/08/2025 00:16,15/08/2027 00:16,19/09/2026 04:18
-ed20d59a-6a99-48d8-89f8-8c9312c07bf4,help.services,premium,140,280,medium,medium,4,namecheap,,,
+ed20d59a-6a99-48d8-89f8-8c9312c07bf4,help.services,premium,242,242,medium,low,4,namesilo,,,22/09/2026 10:03
 48ca63c6-67a1-4c9e-8f1d-f451a3e268d7,midjanuary.services,available,15.99,,high,low,11,name.com,,,
 2b148b78-0fbc-4d7c-bcdb-a4d47ad44597,car.services,resell,,,high,medium,3,Dynadot Inc,09/09/2021 17:00,09/09/2026 17:00,
 d5fc9de4-370c-481f-8358-5cab9eb6b048,arborous.services,available,5.48,51.98,low,low,8,namecheap,,,06/08/2026 13:29
@@ -884,7 +879,7 @@ a923053d-a7ff-4820-a507-9c1273a8be6d,sedulous.services,available,5.48,51.98,low,
 41bae76c-3a99-40fd-a2f7-6e467502682a,southamerican.services,available,15.99,,low,low,14,name.com,,,
 6234cd74-dea0-4b76-a942-9b0288cc55d4,bell.services,premium,23.1,46.2,high,low,4,namecheap,,,
 5a1a24a8-42b6-42c1-a2c1-425a6de0b695,condolence.services,available,15.99,,medium,low,10,name.com,,,
-c6659e4f-db46-4b02-b635-5a4faa5727b5,baggy.services,available,15.99,,high,low,5,name.com,,,
+c6659e4f-db46-4b02-b635-5a4faa5727b5,baggy.services,available,14.99,38.99,low,low,5,namesilo,,,22/09/2026 16:21
 b369ba57-b07c-4fba-aebb-d8c69daa6afc,capone.services,available,15.99,,medium,low,6,name.com,,,
 41b47deb-5238-4a3b-aff4-c6516af852cd,hours.services,available,15.99,,medium,low,5,name.com,,,
 491cf094-b225-4182-b73b-e81e02d860f1,normallywhite.services,available,15.99,,low,low,14,name.com,,,
@@ -900,7 +895,7 @@ d3aa7404-05e7-45a0-8290-90d713c927e1,purgative.services,available,5.48,51.98,low
 b14c7519-a9a1-4435-bd61-c665e5b53f69,handicap.services,available,15.99,52.99,high,low,8,name.com,,,
 7edee9d3-b7d4-4228-99b4-bdd52cf28038,kudos.services,available,15.99,,high,low,5,name.com,,,
 9673505f-3817-4f01-b31c-8eb4b1fc41dd,comingfromyou.services,available,15.99,,high,low,15,name.com,,,
-25be1e51-f15d-4b95-ab44-00cc8474ca78,actual.services,available,15.99,52.99,high,low,6,name.com,,,
+25be1e51-f15d-4b95-ab44-00cc8474ca78,actual.services,available,5.48,51.98,medium,low,6,namecheap,,,21/09/2026 16:37
 f09b27d4-7901-4ac0-bb20-72595baa0baa,saintly.services,available,5.48,51.98,low,low,7,namecheap,,,
 2dcd20ae-d69e-4e5f-a061-25b74d1cb78d,pushing.services,available,15.99,,high,low,7,name.com,,,
 89863887-8cc5-4251-96fa-d035eb5723e2,bacchant.services,available,5.48,51.98,low,low,8,namecheap,,,08/08/2026 04:35
@@ -911,25 +906,25 @@ c92f0a7d-ac20-418e-b8c1-e92a6b3e8b6b,adonic.services,available,5.48,51.98,low,lo
 de72ca35-00cc-4480-9e58-b1f1e7a475fa,tie.services,available,15.99,,high,low,3,name.com,,,
 7e7c0e32-d4ed-44db-9da3-4eed3adccd8d,slope.services,available,15.99,,high,low,5,name.com,,,
 ed88da9d-7091-4d92-8ca8-a03e6ea61fac,transferableskill.services,available,15.99,,high,low,18,name.com,,,
-df067677-d0b5-4fe5-bb94-e6f548b92e46,education.services,resell,,,medium,low,9,"Spaceship, Inc.",25/06/2015 08:27,25/06/2027 08:27,19/09/2026 06:14
+df067677-d0b5-4fe5-bb94-e6f548b92e46,education.services,resell,,,medium,low,9,"Spaceship, Inc.",25/06/2015 08:27,25/06/2027 08:27,23/09/2026 04:28
 565f8870-6c9a-425b-81ca-c0cb0098282f,vein.services,available,15.99,,high,low,4,name.com,,,
 4b22f9f1-7cda-4d5c-bd89-4fa9a4be0033,feels.services,available,15.99,,high,low,5,name.com,,,
 f92d273a-b0a8-47d4-b905-98ec63df955d,ixl.services,available,5.48,51.98,low,low,3,namecheap,,,
 586fd2c4-fe02-4e86-8a3d-416faf90c41f,befogged.services,available,5.48,51.98,low,low,8,namecheap,,,09/08/2026 08:43
 72bb9cc5-546f-496a-b72a-7a710a6c9700,dirty.services,resell,,,high,low,5,"GoDaddy.com, LLC",19/12/2025 12:25,19/12/2026 12:25,
-68d5b7c9-f54f-4500-9769-aed5f8b4b2ba,amenable.services,available,15.99,,medium,low,8,name.com,,,
+68d5b7c9-f54f-4500-9769-aed5f8b4b2ba,amenable.services,available,5.48,51.98,medium,low,8,namecheap,,,22/09/2026 04:02
 710d601e-4442-4031-8faa-9165a39b4c08,thenandnow.services,available,15.99,,low,low,12,name.com,,,
 b70e6cf3-25c9-41f5-8da5-e4ba92bba00e,basophilic.services,available,5.48,51.98,low,low,10,namecheap,,,08/08/2026 22:53
 989c6901-b7ea-44f0-bbfc-2565a1a40bb9,systematically.services,available,15.99,,medium,low,14,name.com,,,
 a9f6e233-3747-41da-b7cc-fca128c1f2ad,oldman.services,available,15.99,,medium,low,7,name.com,,,
 72060106-2064-468e-ab37-a632cac29b1f,wikimedia.services,available,,,low,low,9,,,,
-bde7e76c-33f9-4d52-9e51-7320e50936cf,baking.services,available,15.99,,high,low,6,name.com,,,
+bde7e76c-33f9-4d52-9e51-7320e50936cf,baking.services,available,14.99,38.99,medium,low,6,namesilo,,,22/09/2026 16:25
 b84014aa-8988-426f-82a1-c1d735e3eaef,thirtythree.services,available,15.99,,high,low,12,name.com,,,
 af669eb1-c401-4241-875a-c502276b8f26,focus.services,available,14.99,38.99,medium,low,5,namesilo,,,19/09/2026 06:53
 62ef0f33-221e-4321-9127-341e9a1c09ec,francesca.services,available,15.99,,high,low,9,name.com,,,
 23e8ae0f-f88d-451f-8653-5e01ac51ec0e,muhfucka.services,available,15.99,,medium,low,8,name.com,,,
 5a3487ca-91ca-4f03-b41f-ebe579c3d01e,interpersonal.services,available,15.99,,high,low,13,name.com,,,
-e5417199-6cce-482c-ae4a-c2debaf76a20,surrogate.services,available,15.99,52.99,high,low,9,name.com,,,
+e5417199-6cce-482c-ae4a-c2debaf76a20,surrogate.services,available,14.99,38.99,low,low,9,namesilo,,,22/09/2026 02:27
 1608871f-12d0-496f-a935-bac4792e98c8,islands.services,available,15.99,,high,low,7,name.com,,,
 13054055-c6b3-498d-beeb-12b0fb74348a,rearmost.services,available,5.48,51.98,low,low,8,namecheap,,,08/08/2026 06:09
 0e02fe70-b9b5-46f6-b890-01bd7a77b1b9,aftermost.services,available,5.48,51.98,low,low,9,namecheap,,,
@@ -938,6 +933,7 @@ e8766e8d-84ff-49ba-b166-b49e6c356556,kissmyass.services,available,15.99,,medium,
 97770900-5165-4cbe-b914-2b0c3e743276,abuse.services,premium,260,520,medium,low,5,namecheap,,,08/09/2026 12:39
 acf9c438-4654-4e70-a9af-39785b1d0eb7,respecting.services,available,15.99,,medium,low,10,name.com,,,
 ece05745-ad2f-4996-9827-b4d9085627c4,havethehotsfor.services,available,15.99,,medium,low,17,name.com,,,
+ddda1b16-7447-48bc-a13d-db5007482938,vain.services,resell,,,low,low,4,"GoDaddy.com, LLC",28/06/2026 20:19,28/06/2027 20:19,22/09/2026 23:50
 02035514-b38b-4c4e-b758-5a37a3442cd1,chased.services,available,15.99,,high,low,6,name.com,,,
 9a9bb4d4-5158-4a38-97fe-3569ba8f7154,heatwave.services,available,15.99,,medium,low,9,name.com,,,
 8e56501f-0d36-4b36-8def-7be77e965683,poisoning.services,available,15.99,,medium,low,9,name.com,,,
@@ -947,7 +943,7 @@ e9c3ac06-a235-4ae7-ac99-72cfacc8ab6c,adam.services,available,,,medium,low,4,,,,
 665bdf4a-c3f1-4d96-9533-0637d20320e8,hence.services,available,15.99,,medium,low,5,name.com,,,
 b4eb0d7e-bd02-4c38-a324-351e4d715d1a,esurient.services,available,5.48,51.98,low,low,8,namecheap,,,07/08/2026 23:25
 e907387d-030c-48a8-aea8-5438304422fe,stclair.services,available,15.99,,medium,low,9,name.com,,,
-8e80c6f8-9f7c-49b5-bdb7-dca95abd9d02,twenty.services,available,15.99,52.99,high,low,6,name.com,,,
+8e80c6f8-9f7c-49b5-bdb7-dca95abd9d02,twenty.services,available,5.48,51.98,medium,low,6,namecheap,,,21/09/2026 12:24
 9eedde3c-0447-4483-99eb-87cbb3eee451,microsoft.services,available,,,high,low,9,,,,
 5bf48268-2e54-4671-97f4-76f96da37605,aetiologic.services,available,5.48,51.98,low,low,10,namecheap,,,
 62e0bd6f-3bab-49a0-815f-7184f2794e13,coverart.services,available,15.99,,high,low,9,name.com,,,
@@ -957,27 +953,25 @@ e907387d-030c-48a8-aea8-5438304422fe,stclair.services,available,15.99,,medium,lo
 54d2f486-286c-4ea9-83c6-c1fcc25b15f0,getoff.services,available,15.99,,high,low,7,name.com,,,
 91876dcb-5c37-418c-904e-dd1f38855566,commercially.services,available,15.99,,medium,low,12,name.com,,,
 f43a8cdf-a545-4ad8-a47a-8f2d54d0f202,aphanitic.services,available,5.48,51.98,low,low,9,namecheap,,,05/08/2026 23:01
-fae73832-dfd9-420d-b867-bb0ff2d5a1eb,tedious.services,available,15.99,,medium,low,7,name.com,,,
-8f008e30-320c-45c3-9a89-6a4f9399a193,ordered.services,available,15.99,,high,low,7,name.com,,,
+fae73832-dfd9-420d-b867-bb0ff2d5a1eb,tedious.services,available,14.99,38.99,low,low,7,namesilo,,,23/09/2026 00:32
+8f008e30-320c-45c3-9a89-6a4f9399a193,ordered.services,available,14.99,38.99,low,low,7,namesilo,,,22/09/2026 08:32
 38e13164-d691-45ee-b741-e5147348b96c,skirt.services,available,15.99,,high,low,5,name.com,,,
 7364915d-418c-4b89-9584-f07a189b3c93,words.services,available,15.99,,high,low,5,name.com,,,
 e36fd23e-1730-4fc1-bd1b-a460eedde618,uraemic.services,available,5.48,51.98,low,low,7,namecheap,,,08/08/2026 02:48
 c1c8edba-7107-46e0-91b9-100f81e54b1e,christalive.services,available,15.99,,high,low,12,name.com,,,
-f6e1d4b8-4cf3-48a2-9797-33cea6398711,bouncy.services,available,15.99,,high,low,6,name.com,,,
 bed0660f-3548-4c22-8ac1-3afd3fc5232e,wrongly.services,available,15.99,,medium,low,7,name.com,,,
 43a91ce4-8033-4cd8-b9d4-4a19196ff0c8,dowhat.services,available,15.99,,medium,low,7,name.com,,,
 6c687b4f-bd64-4bc7-86f5-b97c849feffc,child.services,premium,140,280,high,low,5,namecheap,,,
 1953ceb7-a8fa-4644-9441-b8670604e802,summary.services,resell,,,high,low,7,"GoDaddy.com, LLC",29/01/2016 04:34,29/01/2027 04:34,
 f6345c48-462d-411d-bde1-93a803fe8022,beastly.services,available,5.48,51.98,low,low,7,namecheap,,,09/08/2026 04:54
 969b2d99-f1b1-4c61-9e27-d18c5c7efab8,fortieth.services,available,5.48,51.98,low,low,8,namecheap,,,
-6233a431-26ee-46d4-8db9-488cff0a4935,adjusted.services,available,15.99,52.99,high,low,8,name.com,,,
+6233a431-26ee-46d4-8db9-488cff0a4935,adjusted.services,available,14.99,38.99,medium,low,8,namesilo,,,21/09/2026 18:42
 a01145e9-049a-4734-ac1b-5ad219a9485c,ninetyone.services,available,5.48,51.98,low,low,10,namecheap,,,
 2adc2cb5-522d-491e-9ba8-f76d952eda78,soaker.services,available,5.48,51.98,low,low,6,namecheap,,,
 0a9c04fd-0691-4f4e-9116-01c142dec94b,scurvy.services,available,5.48,51.98,low,low,6,namecheap,,,
 5e27c628-b4cc-4751-86e0-e1a81128bb41,unwell.services,available,5.48,51.98,low,low,6,namecheap,,,
 622c0a24-841a-40aa-b123-6c08d9d8e63b,getoutofhere.services,available,15.99,,high,low,15,name.com,,,
 f7860179-8476-415d-bfe8-e19907755f6b,etiologic.services,available,5.48,51.98,low,low,9,namecheap,,,
-a40f17f1-83eb-4a21-93d3-dcde2bc2a64f,remove.services,available,15.99,52.99,high,low,6,name.com,,,
 79474e0a-737e-4df8-a8ea-7d4a68a2828d,ball.services,available,15.99,,medium,low,4,name.com,,,
 7ac3db65-cced-4f9b-a2c5-2f3fd195dac7,disconnect.services,available,15.99,,high,low,10,name.com,,,
 c6f0ce7a-589d-401f-904c-38e24c975fc3,atpeace.services,available,15.99,,high,low,8,name.com,,,
@@ -999,3 +993,9 @@ bd5db7cc-db91-4c3f-9153-ea85254a153f,tothinkthat.services,available,15.99,,low,l
 e7d4e459-71c8-48d8-b285-e231d5a6a6d6,rhythmic.services,available,15.99,,medium,low,8,name.com,,,
 befee1a9-2d74-451f-b0b9-1027ecd69730,firsttime.services,available,15.99,,high,low,10,name.com,,,
 d39ad504-50ed-4fc1-879b-d5d4b446a759,singletree.services,available,15.99,,low,low,11,name.com,,,
+0224cc0d-e3d8-4234-98b6-2f4f7f57f16b,hangout.services,premium,140,280,high,low,8,namecheap,,,
+96ce9281-6ef0-4f12-b991-226645c5d925,arched.services,available,5.48,51.98,low,low,6,namecheap,,,06/08/2026 14:34
+8b122ec7-2a91-4201-8f96-1100877aea7b,pentad.services,available,5.48,51.98,low,low,6,namecheap,,,
+322e4d00-1801-45ad-b6e2-44d26d4b361c,kingdom.services,available,,,high,low,7,,,,
+b389ac52-6f39-4638-a2da-7ed0262672b9,expect.services,available,15.99,,high,low,6,name.com,,,
+fcd4508a-1cd3-41b7-a0d3-16931ebb3d7e,donkey.services,available,15.99,,medium,low,6,name.com,,,
