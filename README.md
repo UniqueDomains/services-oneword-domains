@@ -1,10 +1,10 @@
-# Available .SERVICES One-Word Domains (18,608)
+# Available .SERVICES One-Word Domains (18,895)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C608%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C895%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .services one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,608 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,895 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,608 domains · **Median ask:** $18.48 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 18,895 domains · **Median ask:** $18.69 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/services`
@@ -72,16 +72,16 @@ print(df.head())
 | jon.services  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | lie.services  | available | $15.99    | —             | high           | low    | 3      | name.com                                                  |
 | cape.services | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| mil.services  | premium   | $42.90    | $85.80        | high           | low    | 3      | namecheap                                                 |
+| body.services | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
 | lii.services  | available | $5.48     | $51.98        | high           | low    | 3      | namecheap                                                 |
 | gone.services | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| body.services | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
+| find.services | premium   | $140      | $280          | high           | medium | 4      | namecheap                                                 |
 | afro.services | available | $14.99    | $38.99        | high           | low    | 4      | namesilo                                                  |
 | host.services | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| find.services | premium   | $140      | $280          | high           | medium | 4      | namecheap                                                 |
+| gold.services | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
 | anus.services | available | $14.99    | $38.99        | medium         | low    | 4      | namesilo                                                  |
 | mild.services | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| gold.services | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
+| song.services | premium   | $280      | $560          | high           | low    | 4      | namecheap                                                 |
 | arum.services | available | $5.48     | $51.98        | medium         | low    | 4      | namecheap                                                 |
 | mine.services | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,608 live domains                        |
+| 1,000-row public sample | 18,895 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
